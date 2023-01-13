@@ -22,6 +22,4 @@
       <td>Para Exportar dados</td>
   </tr>
 </table>
-![Demonstração](https://raw.githubusercontent.com/MambaGIT/accounts/main/Screenshot_2.png)
-
 <h3>Com o uso dessa ferramente 80% dos campos necessários para o cadastro de produtos são preenchidos com êxito, poupando tempo e mão de obra <h3>
